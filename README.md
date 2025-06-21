@@ -29,7 +29,7 @@ The project consists of multiple key components:
 
 To run this project, you will need the following dependencies:
 
-1. **This is a notebook, it can be directly run in Google Colab or similar tool**
+1. **This is a notebook, can be directly run in Google Colab or similar tool**
 2. **Mind the changes of paths and dataset availability** 
 
 ## Results
